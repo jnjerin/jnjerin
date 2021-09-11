@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jnjerin
+- 👋 Hi, I’m Joan Njeri
 - 👀 I’m interested in Cloud Engineering|DevOps
 - 🌱 I’m currently learning Python,Linux,AWS and other DevOps tools
 - 📫 How to reach me: joannjerin(at)gmail(dot)com
