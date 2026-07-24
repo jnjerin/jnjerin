@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Joan
 
-Full-stack Software Engineer with a growing interest in AI and Open Source.
+Full-stack Software Engineer passionate about AI, backend systems, and open source.
 
 I enjoy building products, solving backend problems, and continuously improving my engineering skills through real projects and community involvement.
 
@@ -14,13 +14,18 @@ I enjoy building products, solving backend problems, and continuously improving 
 
 ---
 
+## ✍️ Latest Articles
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 ## 📊 GitHub Stats
 
 <p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jnjerin&show_icons=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=jnjerin"/>
+<img height="170" src="https://streak-stats.demolab.com?user=jnjerin" />
 
 </p>
 
@@ -31,7 +36,10 @@ I enjoy building products, solving backend problems, and continuously improving 
 - 🌍 [Portfolio](https://portfolio-joan-njeris-projects.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/joannjerin/)
 - ✍️ [Hashnode](https://hashnode.com/@joanndegwa)
-- 📫 Email: njerijoan24@gmail.com
+- 📫 Email: njerijoan24 [at] gmail [dot] com
+
+![Profile Views](https://komarev.com/ghpvc/?username=jnjerin&color=blueviolet&style=flat)
+
 
 <!---
 jnjerin/jnjerin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
