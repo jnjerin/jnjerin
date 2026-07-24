@@ -6,7 +6,7 @@ I enjoy building products, solving backend problems, and continuously improving 
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nextjs,react,python,postgres,docker,git,github,aws,vscode" />
@@ -14,14 +14,14 @@ I enjoy building products, solving backend problems, and continuously improving 
 
 ---
 
-## ✍️ Latest Articles
+## Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p>
 
