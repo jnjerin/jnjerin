@@ -17,6 +17,9 @@ I enjoy building products, solving backend problems, and continuously improving 
 ## Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [From Complexity to Simplicity: Navigating Hyperledger Fabric with Fablo](https://joanndegwa.hashnode.dev/from-complexity-to-simplicity-navigating-hyperledger-fabric-with-fablo)
+- [Embracing Open Source: A Pathway to Professional Growth and Impactful Contribution](https://joanndegwa.hashnode.dev/embracing-open-source-a-pathway-to-professional-growth-and-impactful-contribution)
+- [Web5: A Glimpse into the Next Frontier of the Internet](https://joanndegwa.hashnode.dev/web5-a-glimpse-into-the-next-frontier-of-the-internet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
